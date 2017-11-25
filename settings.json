@@ -1,0 +1,15 @@
+{
+    "accounts": [
+        {
+            "id": "mydns000000",
+            "password": "xxxxxxxxxxx",
+            "IPv4": true,
+            "IPv6": false
+        }
+    ],
+
+    "endpoints": {
+        "IPv4": "https://ipv4.mydns.jp/login.html",
+        "IPv6": "https://ipv6.mydns.jp/login.html"
+    }
+}
